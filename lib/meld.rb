@@ -1,5 +1,5 @@
 require "meld/version"
 
 module Meld
-  # Your code goes here...
+  require "meld/merge"
 end
